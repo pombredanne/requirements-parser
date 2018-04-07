@@ -4,12 +4,14 @@
     "local_file": false,
     "name": "ipdb",
     "editable": false,
+    "subdirectory": null,
     "uri": null,
     "extras": [],
     "vcs": null,
     "path": null,
-    "line": "ipdb",
-    "specs": [],
+    "line":  "ipdb",
+    "hash_name": null,
+    "hash": null,    "specs": [],
     "revision": null
   },
   {
@@ -17,12 +19,14 @@
     "local_file": false,
     "name": "Jinja",
     "editable": false,
+    "subdirectory": null,
     "uri": null,
     "extras": [],
     "vcs": null,
     "path": null,
-    "line": "Jinja",
-    "specs": [],
+    "line":  "Jinja",
+    "hash_name": null,
+    "hash": null,    "specs": [],
     "revision": null
   }
 ]
